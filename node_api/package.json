@@ -1,0 +1,21 @@
+{
+    "name": "node_api",
+    "version": "1.0.0",
+    "description": "node version of a bit of an api",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.18.2"
+    },
+    "devDependencies": {
+        "eslint": "^8.31.0",
+        "morgan": "^1.10.0",
+        "nodemon": "^2.0.20",
+        "prettier": "^2.8.1"
+    },
+    "type": "module"
+}
